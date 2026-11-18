@@ -1,35 +1,34 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-
+name: "🐛 버그 리포트"
+about: "발생한 버그나 오류 상황을 제보합니다."
+title: "[BUG] "
+labels: ["bug"]
+assignees: ""
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is, be sure to note if the issue is presenet in the *template* or appeared on *your site*. If the bug appears on your site, please be sure to provide a link to your repository.
+## 📝 버그 설명
+어떤 버그가 발생했는지 간략히 설명해 주세요.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## 🔁 재현 방법
+버그를 재현할 수 있는 단계를 순서대로 적어 주세요.
+1. '...'으로 이동
+2. '...'를 클릭
+3. '...'까지 스크롤
+4. 오류 발생 확인
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## ✅ 기대한 동작
+정상적으로 동작했어야 할 모습을 적어 주세요.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## ❌ 실제 발생한 동작
+실제로 일어난 오류나 화면 상태를 적어 주세요. (에러 로그/스택 트레이스 첨부 권장)
 
-**Version**
-Named version (ex., v.0.8.4) and commit hash you are using.
+## 📸 스크린샷 / 영상
+이해에 도움이 되는 스크린샷이나 화면 녹화를 첨부해 주세요.
 
-**Browser (please complete the following information):**
- - Device: [e.g. iPhone6] (if applicable)
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## 💻 환경 정보
+- **OS:** [예: macOS 15.0, Windows 11, iOS 18]
+- **브라우저 / 런타임:** [예: Chrome 130, Node.js 22]
+- **버전:** [예: v1.2.3, commit abc1234]
 
-**Additional context**
-Add any other context about the problem here.
+## 💡 추가 정보
+기타 참고할 만한 맥락이나 임시 해결 방법이 있다면 적어 주세요.
