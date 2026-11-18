@@ -1,20 +1,25 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: "✨ Feature Request"
+about: "새로운 기능이나 개선 사항을 제안합니다."
+title: "[FEAT] "
+labels: ["enhancement"]
+assignees: ""
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🎯 기능 요약
+<!-- 어떤 기능을 추가하거나 개선하고 싶은지 한두 줄로 요약해 주세요. -->
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## 💡 제안 배경 및 목적
+<!-- 이 기능이 필요한 이유나 해결하고자 하는 문제(사용자 불편, 업무 효율 등)를 적어주세요. -->
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 📋 상세 요구사항 / 동작 방식
+<!-- 기능이 어떻게 동작해야 하는지 구체적으로 작성해 주세요. -->
+- [ ] 항목 1
+- [ ] 항목 2
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+## 🖼️ 참고 자료 (선택)
+<!-- 화면 스케치, 와이어프레임, 유사 서비스 예시, 관련 링크 등을 첨부해 주세요. -->
+
+## ✅ 완료 조건 (Acceptance Criteria)
+<!-- 어떤 상태가 되어야 해당 기능이 완료되었다고 볼 수 있는지 적어주세요. -->
+- [ ] 
